@@ -51,3 +51,9 @@
 - Modern, responsive UIs
 - Smooth animations & engaging sliders
 - Seamless WordPress experiences
+<div align="center" style="margin-top: 16px;">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="Cute cat paw wave GIF"/>
+  <br><br>
+  <b style="font-size:1.2rem;">Thanks for visiting my profile!<br>
+  Let's make the web awesome together! 🌟</b>
+</div>
