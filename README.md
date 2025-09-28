@@ -61,7 +61,9 @@ A creative playground where design meets interactivity.<br>
 
 - Modern, responsive UIs  
 - Smooth animations & engaging sliders  
-- Seamless WordPress experiences  
+- Smooth animations that make users smile
+- Websites that feel alive and fun
+- Interfaces that are both pretty & functional
 
 ---
 
