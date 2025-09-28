@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.pinimg.com/1200x/7a/57/7a/7a577afb5392847aa4122e6330f9c00a.jpg" alt="Banner" width="80%" />
 </p>
@@ -45,11 +44,15 @@
 </p>
 <p align="center">
 A creative playground where design meets interactivity.<br>
-<em>Check out my repo for Doodle's Garden, my favorite project so far!</em>
+<em>Check out my favorite project!</em>
 </p>
 <p align="center">
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/spystar20/doodles-garden)
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://doodle-garden-hhdncidc4-santhoshis-projects-41e6e87e.vercel.app/)
+  <a href="https://github.com/spystar20/doodles-garden">
+    <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+  </a>
+  <a href="https://doodle-garden-hhdncidc4-santhoshis-projects-41e6e87e.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"/>
+  </a>
 </p>
 
 ---
@@ -85,7 +88,6 @@ A creative playground where design meets interactivity.<br>
 ### 🎉 Fun Facts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee%20Lover-Yes-FF69B4?style=for-the-badge&logo=coffee&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netflix%20Binger-Always-FF0000?style=for-the-badge&logo=netflix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coding%20at%202AM-Yes-008000?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pet%20Cat-Loves-FFC0CB?style=for-the-badge&logo=cat&logoColor=white"/>
