@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/7a/57/7a/7a577afb5392847aa4122e6330f9c00a.jpg" alt="Banner" width="80%" />
+  <img src="https://i.pinimg.com/originals/b1/bf/f3/b1bff3b8d3b3e9cba476c6dc31a3f66e.jpg" alt="Banner" width="80%" />
 </p>
 
 <h1 align="center">🌸 Hey, I'm Santoshi 👋</h1>
