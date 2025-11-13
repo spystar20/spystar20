@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b1/bf/f3/b1bff3b8d3b3e9cba476c6dc31a3f66e.jpg" alt="Banner" width="80%" />
+<div align="center" style="
+  background: url('https://i.pinimg.com/1200x/5f/cd/f8/5fcdf8ff9c7b07509c5197903075afe8.jpg') center/cover no-repeat;
+  padding: 60px 20px;
+  border-radius: 16px;
+  color: #2e2e2e;
+">
+
+<h1>🌸 Hey, I'm Santoshi 👋</h1>
+<p>
+  <b>Crafting intuitive interfaces with code & creativity ✨</b><br>
+  Frontend Developer • UI/UX Enthusiast • Aesthetic Coder
 </p>
 
-<h1 align="center">🌸 Hey, I'm Santoshi 👋</h1>
-<p align="center">
-  Crafting intuitive interfaces with code & creativity ✨<br>
-  <b>Frontend Developer • UI/UX Enthusiast • Aesthetic Coder</b>
-</p>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding animation" />
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding animation" />
-</p>
+</div>
 
 ---
 
