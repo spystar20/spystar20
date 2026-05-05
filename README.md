@@ -1,16 +1,11 @@
-<h1 align="center">
-  🌸 Hi, I'm <b>Santoshi</b> 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<h1 align="center">🌸 Hi, I'm <b>Santoshi</b> 👋</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+Beautiful+Interfaces;Building+Smooth+Web+Experiences" />
+</p>
 
 <p align="center">
 Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful interfaces ✨
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=header"/>
 </p>
 
 ---
@@ -20,7 +15,7 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 - 🌷 I build interactive & aesthetic web experiences  
 - 💻 Focused on frontend engineering & UI systems  
 - 🌱 Learning Next.js, TypeScript & MongoDB  
-- 🎀 I combine logic + design into seamless UI  
+- 🎀 I balance logic + design in every project  
 
 ---
 
@@ -46,19 +41,16 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=F7A8B8&height=80&section=footer"/>
-</p>
-
----
-
 ## 🪄 What I Build
 
-- ✨ Smooth UI systems with clean structure  
-- 🌼 Interactive web experiences  
-- 🎨 Minimal yet expressive interfaces  
-- 🩵 User-first design thinking  
+<p align="center">
 
+
+- ✨ Clean responsive UI systems  
+- 🌼 Smooth animations & interactions  
+- 🎨 Minimal yet expressive design  
+- 🩵 User-first experience flows  
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -91,7 +83,7 @@ A creative playground where design meets interactivity 🌷
 
 ---
 
-## 🌷 Connect with Me
+## 🌷 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">
@@ -104,10 +96,10 @@ A creative playground where design meets interactivity 🌷
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Visual
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spystar20&label=Profile%20Views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=spystar20&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
