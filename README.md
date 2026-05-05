@@ -95,7 +95,7 @@ A creative playground where design meets interactivity 🌷
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/736x/82/b9/27/82b927846b5f6c0819ee6f36929fb738.jpg" width="100"/>
   <br>
   <b>Thanks for stopping by 💕 Let's make something beautiful together!</b>
 </p>
