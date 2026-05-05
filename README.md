@@ -1,21 +1,31 @@
 <h1 align="center">🌸 Hi, I'm <b>Santoshi</b> 👋</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+Beautiful+Interfaces;Turning+Ideas+Into+Web+Experiences" />
+</p>
+
 <p align="center">
 Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful interfaces ✨
 </p>
 
----
-
-### 💫 About Me  
-- 🌷 I love creating **interactive & aesthetic web experiences**  
-- 💻 Passionate about **Frontend Development & UI/UX Design**  
-- 🌱 Currently learning **Next.js, TypeScript & MongoDB**  
-- 🎀 I mix **logic and design** to make web apps feel alive  
+<p align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</p>
 
 ---
 
-### ⚙️ Tech Stack  
+## 💫 About Me
 
-#### 🌸 Frontend  
+- 🌷 I love creating interactive & aesthetic web experiences  
+- 💻 Passionate about Frontend Development & UI/UX Design  
+- 🌱 Currently learning Next.js, TypeScript & MongoDB  
+- 🎀 I build interfaces that balance logic and visual clarity  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🌸 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,7 +34,7 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### 🌿 Backend & Tools  
+### 🌿 Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -33,24 +43,22 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-#### 🎨 Design  
+---
+
+## 🪄 What I Love Building
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
----
-
-### 🪄 What I Love Building  
-- ✨ Smooth, responsive, and aesthetic UIs  
-- 🌼 Websites that feel alive with animations  
-- 🎨 Designs that balance minimalism & personality  
-- 🩵 User experiences that feel effortless  
+- ✨ Smooth, responsive UI systems  
+- 🌼 Interactive animations & micro-interactions  
+- 🎨 Minimal + expressive design balance  
+- 🩵 Clean user experience flows  
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spystar20&show_icons=true&theme=rose_pine&hide_border=true" width="48%"/>
@@ -63,39 +71,59 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 
 ---
 
-### 🌸 Featured Project — *Doodle’s Garden*  
+## 🌸 Featured Project — *Doodle’s Garden*
+
 <p align="center">
 A creative playground where design meets interactivity 🌷  
 </p>
+
 <p align="center">
   <a href="https://doodle-garden-hhdncidc4-santhoshis-projects-41e6e87e.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-ffb6c1?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-ffb6c1?style=for-the-badge"/>
   </a>
   <a href="https://github.com/spystar20/doodles-garden">
-    <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌷 Connect with Me  
+## 🌷 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👀 Profile Visitors  
+## 👀 Activity Vibes
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/spystar20/count.svg" alt="Profile Views"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spystar20&theme=rose-pine&hide_border=true" />
 </p>
 
 ---
 
-<p align="center" >
-  <img src="https://i.pinimg.com/736x/e7/b9/28/e7b92814e422d64ac7ad60707d86b369.jpg" width="200" border-radius="12pz"/>
-  <br>
-  <b>Thanks for stopping by 💕 Let's make something beautiful together!</b>
+## ✨ Profile Views
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/spystar20/count.svg" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://i.pinimg.com/736x/e7/b9/28/e7b92814e422d64ac7ad60707d86b369.jpg" width="200" style="border-radius: 12px;" />
+</p>
+
+<p align="center">
+<b>Thanks for stopping by 💕 Let's build something beautiful together!</b>
 </p>
