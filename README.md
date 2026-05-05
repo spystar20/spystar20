@@ -1,7 +1,16 @@
-<h1 align="center">🌸 Hi, I'm <b>Santoshi</b> 👋</h1>
+<h1 align="center">
+  🌸 Hi, I'm <b>Santoshi</b> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
 Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful interfaces ✨
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=header"/>
 </p>
 
 ---
@@ -11,7 +20,7 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 - 🌷 I build interactive & aesthetic web experiences  
 - 💻 Focused on frontend engineering & UI systems  
 - 🌱 Learning Next.js, TypeScript & MongoDB  
-- 🎀 I balance logic + design in every project  
+- 🎀 I combine logic + design into seamless UI  
 
 ---
 
@@ -37,16 +46,18 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 
 ---
 
-## 🪄 What I Build
-
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=F7A8B8&height=80&section=footer"/>
 </p>
 
-- ✨ Clean responsive UI systems  
-- 🌼 Smooth interactions & micro-animations  
-- 🎨 Minimal yet expressive design  
-- 🩵 User-first experience flows  
+---
+
+## 🪄 What I Build
+
+- ✨ Smooth UI systems with clean structure  
+- 🌼 Interactive web experiences  
+- 🎨 Minimal yet expressive interfaces  
+- 🩵 User-first design thinking  
 
 ---
 
