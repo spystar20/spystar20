@@ -94,8 +94,8 @@ A creative playground where design meets interactivity 🌷
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/e7/b9/28/e7b92814e422d64ac7ad60707d86b369.jpg" width="100"/>
+<p align="center" >
+  <img src="https://i.pinimg.com/736x/e7/b9/28/e7b92814e422d64ac7ad60707d86b369.jpg" width="200" border-radius="12pz"/>
   <br>
   <b>Thanks for stopping by 💕 Let's make something beautiful together!</b>
 </p>
