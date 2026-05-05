@@ -1,10 +1,6 @@
 <h1 align="center">🌸 Hi, I'm <b>Santoshi</b> 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+Beautiful+Interfaces;Building+Smooth+Web+Experiences" />
-</p>
-
-<p align="center">
 Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful interfaces ✨
 </p>
 
@@ -44,11 +40,11 @@ Frontend Developer • UI/UX Enthusiast • Crafting intuitive and beautiful int
 ## 🪄 What I Build
 
 <p align="center">
-<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" /> -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 </p>
 
 - ✨ Clean responsive UI systems  
-- 🌼 Smooth animations & interactions  
+- 🌼 Smooth interactions & micro-animations  
 - 🎨 Minimal yet expressive design  
 - 🩵 User-first experience flows  
 
@@ -84,7 +80,7 @@ A creative playground where design meets interactivity 🌷
 
 ---
 
-## 🌷 Connect
+## 🌷 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">
@@ -97,10 +93,10 @@ A creative playground where design meets interactivity 🌷
 
 ---
 
-## 👀 Profile Visual
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=spystar20&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=spystar20&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
