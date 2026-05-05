@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm <b>Santoshi</b> 👋</h1>
+<h1 align="center">🌸 Hi, I'm <b>Santoshi</b>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Crafting+Beautiful+Interfaces;Building+Smooth+Web+Experiences" />
