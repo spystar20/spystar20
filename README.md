@@ -1,23 +1,24 @@
 <h1 align="center">🌸 Hi, I'm <b>Santoshi</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=550&lines=Frontend+%26+MERN+Developer;Building+Interactive+Web+Experiences;UI%2FUX+Enthusiast;Turning+Ideas+Into+Interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A8B8&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Building+Interactive+Web+Experiences;UI%2FUX+Enthusiast;Turning+Ideas+Into+Interfaces" />
 </p>
 
 <p align="center">
- MERN Developer • UI/UX Enthusiast • Building interactive web experiences ✨
+  MERN Stack Developer • UI/UX Enthusiast • Building interactive web experiences ✨
 </p>
 
 ---
 
 ## 💫 About Me
 
-* 💻 Frontend & MERN developer focused on building real-world web applications
-* 🎨 I enjoy combining clean UI with thoughtful user experiences
-* ⚡ Interested in interactive interfaces, animations, and smooth micro-interactions
+* 💻 MERN Stack Developer focused on building real-world web applications
+* ⚛️ I enjoy building responsive and interactive frontend experiences with React
+* 🔧 Comfortable working across frontend, backend APIs, databases, and authentication
+* 🎨 Interested in UI/UX, animations, and smooth micro-interactions
 * 🌱 Currently exploring **Next.js & TypeScript**
-* 🧩 I enjoy working across both frontend architecture and backend APIs
-* 🎀 I like balancing logic, functionality, and visual design in every project
+* 🧩 I enjoy turning ideas into functional, polished, and user-friendly applications
+* 🚀 Always learning and improving through hands-on projects
 
 ---
 
@@ -92,7 +93,7 @@ A full-stack Learning Management System built with the MERN stack, covering the 
 * 🔎 Course search, filtering and sorting
 
 <p align="center">
-  <a href="https://my-skillnest.vercel.app/">
+  <a href="https://skillnest.smrfinserv.com/">
     <img src="https://img.shields.io/badge/Live%20Demo-7C8FD6?style=for-the-badge" />
   </a>
 </p>
@@ -119,7 +120,7 @@ A restaurant web application combining a playful visual identity with real-world
 * 🧩 Full-stack API integration
 
 <p align="center">
-  <a href="https://doodle-garden-hhdncidc4-santhoshis-projects-41e6e87e.vercel.app/">
+  <a href="https://doodle-garden-ya7e.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-ffb6c1?style=for-the-badge" />
   </a>
   <a href="https://github.com/spystar20/doodles-garden">
@@ -158,25 +159,41 @@ An interior-design inspired landing page built around visual storytelling, smoot
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spystar20&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=spystar20&theme=rose_pine&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spystar20&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spystar20&theme=rose_pine&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spystar20&theme=rose-pine&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
 ## 🌱 Currently Exploring
 
 <p align="center">
 
 `Next.js` • `TypeScript` • `Advanced React Patterns` • `Frontend Architecture` • `GSAP`
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spystar20&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spystar20&theme=rose_pine&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spystar20&layout=compact&theme=rose_pine&hide_border=true" width="50%" />
 </p>
 
 ---
