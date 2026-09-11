@@ -159,45 +159,6 @@ An interior-design inspired landing page built around visual storytelling, smoot
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spystar20&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=spystar20&theme=rose_pine&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spystar20&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spystar20&theme=rose_pine&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spystar20&theme=rose-pine&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-<p align="center">
-
-`Next.js` • `TypeScript` • `Advanced React Patterns` • `Frontend Architecture` • `GSAP`
-
-</p>
-
----
-
 ## 🌷 Connect With Me
 
 <p align="center">
